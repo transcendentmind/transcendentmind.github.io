@@ -1,6 +1,6 @@
 This file contains notes on contributing to the [Culadasa Q&A Index](https://transcendentmind.github.io/html/culadasa_qna_index.html).
 
-If you would like to contribute, please do so by editing this file: https://github.com/transcendentmind/transcendentmind.github.io/md/culadasa_qna_index.md
+If you would like to contribute, please do so by editing this file: https://github.com/transcendentmind/transcendentmind.github.io/blob/master/md/culadasa_qna_index.md?plain=1
 
 If you know how to submit a pull request on GitHub, you can do so. Otherwise, you can send me a message on Reddit: https://reddit.com/u/transcendent-mind/
 

@@ -22,7 +22,7 @@ In total there are 61 video recordings all of which can be found on [Culadasa's 
 
 This is a large document that took a long time to put together. Proofreading it would take a long time as well, so I only did it to a limited extent. It is bound to contain typos and is subject to improvement.
 
-If you would like to contribute, please do so by editing [this file](https://github.com/transcendentmind/transcendentmind.github.io/md/culadasa_qna_index.md). If you know how to [submit a pull request on GitHub](https://github.com/transcendentmind/transcendentmind.github.io/), you can do so. Otherwise, you can [send me a message on Reddit](https://reddit.com/u/transcendent-mind/).
+If you would like to contribute, please do so by editing [this file](https://github.com/transcendentmind/transcendentmind.github.io/blob/master/md/culadasa_qna_index.md?plain=1). If you know how to [submit a pull request on GitHub](https://github.com/transcendentmind/transcendentmind.github.io/), you can do so. Otherwise, you can [send me a message on Reddit](https://reddit.com/u/transcendent-mind/).
 
 See further notes on contributing [here](https://github.com/transcendentmind/transcendentmind.github.io/culadasa_qna_index_contibuting.md).
 
