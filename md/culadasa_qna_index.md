@@ -16,7 +16,7 @@ I have put this together to make the information contained in the recordings of 
 
 - Sometimes I also included quotes from the answer to the question if something was said that stood out to me as significant and worth including here as a quote. Each quote also contains a timestamp linking to the relevant part of the video.
 
-In total there are 61 video recordings all of which can be found on [Culadasa's YouTube channel](https://www.youtube.com/channel/UCTnlZBjDOwI-dCH8sOta9BQ/videos). I have also made a [playlist of all those videos in chronological order](https://www.youtube.com/playlist?list=PLdgs4y-_wZ3u_DoVeV2urIwAyH5-0wsxq).
+In total there are 61 video recordings, all of which can be found on [Culadasa's YouTube channel](https://www.youtube.com/channel/UCTnlZBjDOwI-dCH8sOta9BQ/videos). I have also made a [playlist of all those videos in chronological order](https://www.youtube.com/playlist?list=PLdgs4y-_wZ3u_DoVeV2urIwAyH5-0wsxq).
 
 <span class='text-underline'>Contributing</span>
 
