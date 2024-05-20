@@ -1,0 +1,83 @@
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-Regular.otf.woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-It.otf.woff2');
+  font-weight: normal;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-Bold.otf.woff2');
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-BoldIt.otf.woff2');
+  font-weight: bold;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-ExtraLight.otf.woff2');
+  font-weight: 200;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-ExtraLightIt.otf.woff2');
+  font-weight: 200;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-Light.otf.woff2');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-LightIt.otf.woff2');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-Semibold.otf.woff2');
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-SemiboldIt.otf.woff2');
+  font-weight: 600;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-Black.otf.woff2');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Source Serif 4';
+  src: url('../fonts/source-serif/woff2/otf/SourceSerif4-BlackIt.otf.woff2');
+  font-weight: 800;
+  font-style: italic;
+}
