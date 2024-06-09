@@ -2242,7 +2242,7 @@ I hear a lot of terms used such as _The Four Noble Truths_, _Ten Fetters_, _Awak
 
 ### 00:37:31
 
-Done many three-day retreats, meditated about 3--5 hours per day, reached a very quite state similar to what you call bliss of physical pliancy. No more organic sensation, but very pleasand energy all over the body. In that state, there's hardly any more personal thoughts, but quite a few hypnagogic mental situations like impersonal thoughts, images etc., which at the same time helped me to get deeper into the meditation state as long as I keep my metacognitive awareness very clear. Otherwise I would get very sleepy or develop dullness. You do not mention hypnagogia in your book, but those hypnagogic images are always present in my meditations, and as I said are very helpful to reach that bliss state.
+Done many three-day retreats, meditated about 3--5 hours per day, reached a very quite state similar to what you call bliss of physical pliancy. No more organic sensation, but very pleasand energy all over the body. In that state, there's hardly any more personal thoughts, but quite a few hypnagogic mental situations like impersonal thoughts, images etc., which at the same time helped me to get deeper into the meditation state as long as I keep my metacognitive awareness very clear. Otherwise I would get very sleepy, or develop dullness. You do not mention hypnagogia in your book, but those hypnagogic images are always present in my meditations, and as I said are very helpful to reach that bliss state.
 
 Keywords: `archetypal imagery`
 
@@ -2436,7 +2436,7 @@ When I reach mental pliancy or am on the way to, I have quite a few hypnagogic m
 
 When I get into a _jhāna_ state (the pleasure one, not the luminous one), I can really see the difference between first, second and third _jhānas_. But when I reach the fourth one it gets really strange. The flow of energy in my body gets so strong that I can't feel my body anymore. I can't do a body scan because there is nothing to scan. I already had some experience with the formless _jhānas_ of infinite space and infinite consciousness, but what I really feel is a very strong increase in the flow of energy. I remember how in Stage 9 you say that it's important to control the flow of energy, which I have trouble differentiating the higher _jhānas_ because the flow of energy is so strong.
 
-Keywords: `universal and individual archetypes`, `realms of mystery and power`, `Majjhima Nikāya 111 - Anupadasutta (One by One)` ([Sutta](https://suttacentral.net/mn111))
+Keywords: `archetypal imagery`, `universal and individual archetypes`, `realms of mystery and power`, `lucid dreaming`, `Majjhima Nikāya 111 - Anupadasutta (One by One)` ([Sutta](https://suttacentral.net/mn111))
 
 ### 00:36:58
 
